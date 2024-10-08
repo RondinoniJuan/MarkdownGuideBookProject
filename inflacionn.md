@@ -46,7 +46,7 @@ Aquí hay algunos enlaces útiles para aprender más sobre la inflación:
 
 Una representacion mas visual de la inflacion
 
-- ![Inflación Global](./images/inflacion_global.png)
-- ![Causas de la Inflación](./images/causas_inflacion.png)
-- ![Efectos de la Inflación](./images/efectos_inflacion.png)
-- ![Gráfico de Inflación](./images/grafico_inflacion.gif)
+- ![Inflación Global](inflacion1.png)
+- ![Causas de la Inflación](inflacion2.png)
+- ![Efectos de la Inflación](inflacion3.jpeg)
+- ![Gráfico de Inflación](inflacion4.jpeg)
